@@ -1,7 +1,11 @@
 <div align="center">
 <h1 align="center">Hi there, I'm Jefferson Torres Mangier 👋
 </h1>
+  <a href="https://www.linkedin.com/in/jefferson-torres-mangier-731b87178">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </div>
+
 
 ## 🚀 About Me
 
@@ -20,11 +24,21 @@ I'm a passionate and aspiring Data Scientist with a strong background in data an
 - **Databases:** MySQL, PostgreSQL, SQLite
 - **Tools:** Git, Jupyter Notebooks
 
+## 🔧 Technologies & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 
 ## 📫 How to reach me
 
 <a href="https://www.linkedin.com/in/jefferson-torres-mangier-731b87178">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="30"/>
+</a>
+
+<a href="https://www.instagram.com/jeffjtm/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="30"/>
 </a>
 
 ## 📊 GitHub Stats
