@@ -1,15 +1,22 @@
 <div align="center">
-<h1 align="center">Hi there, I'm Jefferson Torres Mangier 👋
-</h1>
+<h1 align="center">Hi there, I'm Jefferson Torres Mangier 👋</h1>
+ </div>
+ <img src="https://media.licdn.com/dms/image/D4E16AQGjVBrzc6J5GQ/profile-displaybackgroundimage-shrink_350_1400/0/1717721895933?e=1723075200&v=beta&t=W_1ihWffm1bFM8iqLKpbfDeQ-cX4C0vht1A_NYPA7ZY">
+ <div align="center">
   <a href="https://www.linkedin.com/in/jefferson-torres-mangier-731b87178">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
 
-
 ## 🚀 About Me
+Technology enthusiast eager to start my professional career as a Data Scientist<img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-I'm a Data Scientist with a strong background in data analysis, machine learning, and data visualization. I love transforming data into valuable insights and making data-driven decisions. I'm constantly learning new technologies to solve complex problems and generate value through data.
+🔭 I am currently in the final stages of my Data Scientist Bootcamp at TripleTen, excited to apply my new knowledge. 💪
+
+🌱 I am practicing with various machine learning algorithms and have completed projects involving SQL and Python, utilizing libraries like Pandas, NumPy, and scikit-learn, as well as data visualization tools such as Tableau and Matplotlib.🧑‍💻
+
+💓 I love the challenge of discovering new ways to write code to automate tasks and derive insights from data, as I am passionate about programming logic. 🕵️
+
 
 ## 💼 Education
 
@@ -33,7 +40,7 @@ I'm a Data Scientist with a strong background in data analysis, machine learning
 
 ## 📫 How to reach me
 
-<a href="https://www.linkedin.com/in/jefferson-torres-mangier-731b87178">
+<a href="https://www.linkedin.com/in/jefferson-torres-datachef">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="30"/>
 </a>
 
@@ -41,6 +48,7 @@ I'm a Data Scientist with a strong background in data analysis, machine learning
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="30"/>
 </a>
 
+📧 jtmangier@gmail.com
 ## 📊 GitHub Stats
 
 <p align="center">
