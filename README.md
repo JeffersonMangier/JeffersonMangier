@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate and aspiring Data Scientist with a strong background in data analysis, machine learning, and data visualization. I love transforming data into valuable insights and making data-driven decisions. I'm constantly learning new technologies to solve complex problems and generate value through data.
+I'm a Data Scientist with a strong background in data analysis, machine learning, and data visualization. I love transforming data into valuable insights and making data-driven decisions. I'm constantly learning new technologies to solve complex problems and generate value through data.
 
 ## 💼 Education
 
