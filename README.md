@@ -3,7 +3,7 @@
  </div>
  <img src="https://media.licdn.com/dms/image/D4E16AQGjVBrzc6J5GQ/profile-displaybackgroundimage-shrink_350_1400/0/1717721895933?e=1723075200&v=beta&t=W_1ihWffm1bFM8iqLKpbfDeQ-cX4C0vht1A_NYPA7ZY">
  <div align="center">
-  <a href="https://www.linkedin.com/in/jefferson-torres-mangier-731b87178">
+  <a href="https://www.linkedin.com/in/jefferson-torres-datachef">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
